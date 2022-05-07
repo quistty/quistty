@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Porsha/Quistty</h1>
+<h1 align="center">Hi (•◡•) /, I'm Porsha/Quistty</h1>
 <h3 align="center">A keyboard enthusiast who also likes anime.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quistty&label=Profile%20views&color=0e75b6&style=flat" alt="quistty" /> </p>
-
-- 👨‍💻 My portfolio can be viewed at [https://quistty.github.io/portfolio/](https://quistty.github.io/portfolio/)
+- My portfolio can be viewed at [https://quistty.github.io/portfolio/](https://quistty.github.io/portfolio/)
 
 
 <h3 align="left">Languages and Tools:</h3>
