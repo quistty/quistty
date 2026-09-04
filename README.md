@@ -1,2 +1,1 @@
-# Coming soon
-whenever i decide to make it
+# quistty.github.io
